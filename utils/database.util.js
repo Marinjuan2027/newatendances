@@ -5,9 +5,9 @@ const db = new Sequelize({
   dialect: "postgres",
   host: "localhost",
   username: "postgres",
-  password: "cezan27",
+  password: "juan2020",
   port: 5432,
-  database: "attendance-system",
+  database: "blogs",
   logging: false,
 });
 
